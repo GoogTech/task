@@ -1,24 +1,25 @@
-# Task.go
-> a simple project about the `ToDo` and run it by one command !
-* `go` v1.14.5
-* `gin` v1.6.3
-* `gorm` v1.20.1
-* `gopkg` v1.62.0
-* `sqlite3` v3.33.0
+## Task.go of frontend
+> This project is the frontend of `Task.go` and base on vue2.0
 
-## How To Run
-### build
-```shell script
-go build
+### Project setup
+```
+npm install
 ```
 
-### run
-```shell script
-# Mac / Unix
-./task conf/config.ini
-
-# Windows
-task.exe conf/config.ini
+### Compiles and hot-reloads for development
+```
+npm run serve
 ```
 
-finally, open your browser and input the url : *http://127.0.0.1:9000/*
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
