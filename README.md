@@ -1,6 +1,7 @@
 # Task.go
 > a simple project about the `ToDo` and run it by one command !
 * `go` v1.14.5
+* `vue` 2.0
 * `gin` v1.6.3
 * `gorm` v1.20.1
 * `gopkg` v1.62.0
