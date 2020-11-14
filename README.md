@@ -1,6 +1,8 @@
 <p align="center">
 	<a href=""><img src="https://ishacker.net/2020/06/21/image-repo/task.go.v1.0.logo.png" width="666"></a>
 <p align="center">
+	
+[![Go Report Card](https://goreportcard.com/badge/github.com/YUbuntu0109/task)](https://goreportcard.com/report/github.com/YUbuntu0109/task)
 
 # Task.go
 > It's not only a todo list but also a notebook and file mangage system, which base on vue, gin framework and sqlite3 database. so no complicated configurations and run it by one command !
