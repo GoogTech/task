@@ -10,7 +10,7 @@ jobs:
 
   build:
     name: Build
-    runs-on: ubuntu-latest
+    runs-on: [ubuntu-latest, macos-latest, windows-latest]
     steps:
 
     - name: Display build environment
@@ -37,6 +37,10 @@ jobs:
 
     - name: Test
       run: go test -v .
-    
-#     - name: Run
-#       run: ./task conf/config.ini # ohh it's will be continuous runing
+  
+#       ohh it's will be continuous runing
+#     - name: Run on windows
+#       run: task.exe conf/config.ini 
+
+#     - name: Run on linux / macOs
+#       run: ./task conf/config.ini 
