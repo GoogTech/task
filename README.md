@@ -27,4 +27,4 @@ go build
 task.exe conf/config.ini
 ```
 
-finally, open your browser and input the url : *http://127.0.0.1:9000/*
+finally, open your browser and input the url : *http://127.0.0.1:9000/*, please modify the content of config.ini file if you want to custom the configuration information bro.
