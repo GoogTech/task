@@ -1,7 +1,8 @@
 <p align="center">
 	<a href=""><img src="https://ishacker.net/2020/06/21/image-repo/task.go.v1.0.logo.png" width="666"></a>
 <p align="center">
-	
+
+![Go](https://github.com/YUbuntu0109/task/workflows/Go/badge.svg?branch=master)
 [![Go Report Card](https://goreportcard.com/badge/github.com/YUbuntu0109/task)](https://goreportcard.com/report/github.com/YUbuntu0109/task)
 
 # Task.go
