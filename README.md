@@ -7,6 +7,7 @@
 * `go` v1.14.5
 * `vue` v2.0
 * `gin` v1.6.3
+* ~`docker` v2.5.0.1~
 * `gorm` v1.20.1
 * `gopkg` v1.62.0
 * `sqlite3` v3.33.0
