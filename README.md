@@ -3,7 +3,7 @@
 <p align="center">
 
 # Task.go
-> a simple project about the `ToDo` and run it by one command !
+> It's not only a todo list but also a notebook and file mangage system, which base on vue, gin framework and sqlite3 database. so no complicated configurations and run it by one command !
 * `go` v1.14.5
 * `vue` v2.0
 * `gin` v1.6.3
