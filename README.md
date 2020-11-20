@@ -1,8 +1,8 @@
 <p align="center">
-	<a href=""><img src="https://ishacker.net/2020/06/21/image-repo/task.go.v1.0.logo.png" width="666"></a>
+	<a href=""><img src="https://project.golanger.org/img/golang-project/task/screenshot/taskGo-screenshot-screely.com.png" width="666"></a>
 	<p align="center">
 		<img src="https://github.com/YUbuntu0109/task/workflows/Go/badge.svg?branch=master"></img>
-		<img src="https://goreportcard.com/badge/github.com/YUbuntu0109/task)](https://goreportcard.com/report/github.com/YUbuntu0109/task"></img>
+		<img src="https://goreportcard.com/badge/github.com/YUbuntu0109/task"></img>
 		<img src="https://img.shields.io/github/commit-activity/m/google-golang/task?color=ff69b4"></img>
 		<img src="https://img.shields.io/github/repo-size/google-golang/task"></img>
 		<img src="https://img.shields.io/github/license/google-golang/task.svg"></img>
