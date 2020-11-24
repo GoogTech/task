@@ -7,7 +7,7 @@
 		<img src="https://img.shields.io/github/repo-size/google-golang/task"></img>
 		<img src="https://img.shields.io/github/license/google-golang/task.svg"></img>
 	</p>	
-<p>
+</p>
 
 
 # Task.go
