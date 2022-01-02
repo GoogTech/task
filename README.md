@@ -1,8 +1,8 @@
 <p align="center">
-	<a href=""><img src="https://project.golanger.org/img/golang-project/task/screenshot/taskGo-screenshot-screely.com.png" width="666"></a>
+	<a href=""><img src="https://user-images.githubusercontent.com/43493852/147871269-c0bbe5ea-e844-45ba-9bac-58214e2e1ab4.png" width="666"></a>
 	<p align="center">
-		<img src="https://github.com/YUbuntu0109/task/workflows/Go/badge.svg?branch=master"></img>
-		<img src="https://goreportcard.com/badge/github.com/YUbuntu0109/task"></img>
+		<img src="https://github.com/GoogTech/task/workflows/Go/badge.svg?branch=master"></img>
+		<img src="https://goreportcard.com/badge/github.com/GoogTech/task"></img>
 		<img src="https://img.shields.io/github/commit-activity/m/google-golang/task?color=ff69b4"></img>
 		<img src="https://img.shields.io/github/repo-size/google-golang/task"></img>
 		<img src="https://img.shields.io/github/license/google-golang/task.svg"></img>
@@ -11,7 +11,7 @@
 
 
 # Task.go
-> It's not only a todo list but also a notebook and file mangage system, which base on vue, gin framework and sqlite3 database. so no complicated configurations and run it by one command !
+> It's a mini todo list which is based on vue, gin framework, and sqlite3 database. no complicated configurations and run it by one command !
 * `go` v1.14.5
 * `vue` v2.0
 * `gin` v1.6.3
