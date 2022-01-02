@@ -1,5 +1,5 @@
 <p align="center">
-	<a href=""><img src="https://user-images.githubusercontent.com/43493852/147871269-c0bbe5ea-e844-45ba-9bac-58214e2e1ab4.png" width="666"></a>
+	<img src="https://user-images.githubusercontent.com/43493852/147871269-c0bbe5ea-e844-45ba-9bac-58214e2e1ab4.png" width="666">
 	<p align="center">
 		<img src="https://github.com/GoogTech/task/workflows/Go/badge.svg?branch=master"></img>
 		<img src="https://goreportcard.com/badge/github.com/GoogTech/task"></img>
